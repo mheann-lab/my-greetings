@@ -1,0 +1,35 @@
+body{
+    background-image: url(nature_background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Times;
+    font-size: 20px;
+    font-style: normal;
+    color: antiquewhite;
+    text-align: center;
+    padding-bottom: 10%;
+    padding-top: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+header{
+    text-align: center;
+    color: azure;
+    font-family: Times;
+    font-size: 40px;
+    text-shadow: cornflowerblue;
+}
+p{
+    font-family: Helvetica;
+    font-size: 20px;
+    font-style: italic;
+    color: antiquewhite;
+    text-align: center;
+}
+h3{
+    font-family: Century Gothic;
+    font-size: 30px;
+    font-style: italic;
+    color: antiquewhite;
+    text-align: center;
+}
